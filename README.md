@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **Llama-index & Langchain with LLMs ,MongoDB, Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Llama-index & Langchain with LLMs ,Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 My portfolio website [https://aryangoyal90.github.io/CV-mysite/](https://aryangoyal90.github.io/CV-mysite/)
 
-- 💬 Ask me about **Python, Machine Learning, Visualization Tool**
+- 💬 Ask me about **Machine Learning, Tableau and MongoDB**
 
 - 📫 How to reach me **goyaryan2004@gmail.com**
 
