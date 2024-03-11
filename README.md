@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **MongoDB, Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Llama-index & Langchain with LLMs ,MongoDB, Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 My portfolio website [https://aryangoyal90.github.io/CV-mysite/](https://aryangoyal90.github.io/CV-mysite/)
 
