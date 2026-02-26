@@ -7,19 +7,17 @@
 
 
 
-- 🔭 I’m currently working on **My Skills**
-
-- 🌱 I’m currently learning **Llama-index & Langchain with LLMs ,Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently Enhancing my knowledge in **AI Agents**
 
 - 👨‍💻 My portfolio website [https://aryangoyal90.github.io/CV-mysite/](https://aryangoyal90.github.io/CV-mysite/)
 
-- 💬 Ask me about **Machine Learning, Tableau and MongoDB**
+- 💬 Ask me about **AI/ML, specifically Computer Vision, NLP or Data Analytics**
 
-- 📫 How to reach me **goyaryan2004@gmail.com**
+- 📫 MAIL **goyaryan2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VfJ_A0y-n0_XvTaoL7WUHLqMBmGUll59/view?usp=sharing](https://drive.google.com/file/d/1VfJ_A0y-n0_XvTaoL7WUHLqMBmGUll59/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/158fB1UDAEY8sUE_oDogRyjwiZsXw3giO/view?usp=sharing](https://drive.google.com/file/d/158fB1UDAEY8sUE_oDogRyjwiZsXw3giO/view?usp=sharing)
 
-- ⚡ Fun fact **I am the quit kid**
+- ⚡ **Looking for a Job right now**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
